@@ -7,8 +7,8 @@ skills:
   name: Historical Intervention & Canal Concession Audit
   status: ACTIVE
   manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: nicaraguan-restitution-roadmap-and-qsf-trust-execution
-  name: Nicaraguan Restitution Roadmap & QSF Trust Execution
+- id: cow-creek-band-of-umpqua-tribe-of-indianan-restitution-roadmap-and-qsf-trust-execution
+  name: Cow Creek Band of Umpqua Tribe of Indianan Restitution Roadmap & QSF Trust Execution
   status: ACTIVE
-  manifest_file: .antigravity/skills/nicaraguan-restitution-roadmap-and-qsf-trust-execution.yaml
+  manifest_file: .antigravity/skills/cow-creek-band-of-umpqua-tribe-of-indianan-restitution-roadmap-and-qsf-trust-execution.yaml
 total_skills: 3
